@@ -1,4 +1,4 @@
-# observ-view-size [![Build Status](https://travis-ci.org/bendrucker/observ-view-size.svg?branch=master)](https://travis-ci.org/bendrucker/observ-view-size)
+# observ-view-size [![Build Status](https://travis-ci.org/bendrucker/observ-view-size.svg?branch=master)](https://travis-ci.org/bendrucker/observ-view-size) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/observ-view-size.svg)](https://greenkeeper.io/)
 
 > Observable representation of the viewport size
 
